@@ -1,9 +1,0 @@
-#!/bin/bash
-name='Alec'
-echo "Hello $name."
-echo -e "\nThis is my script.\n"
-echo -e "Today is $date."
-echo -e "The info for this machine is $uname."
-echo -e "The IP of this machine is $hostname -i."
-echo -e "The hostname is $hostname."
-echo "Have a nice day!"
